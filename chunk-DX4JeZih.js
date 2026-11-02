@@ -1,0 +1,1 @@
+import{yn as f}from"./chunk-D9kFirzL.js";var o={animation:!0};var N=new f(`NGS_CONFIG`,{providedIn:`root`,factory:()=>o});export{N as t};
